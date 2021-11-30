@@ -1,11 +1,8 @@
 <p align="center">
   ### General Kenobi | Star Wars Episode III - The Revenge of the Sith @ 57:12  👋
   <img src="https://github-readme-stats.vercel.app/api?username=nicknamejv&show_icons=true&theme=radical" alt="stats"</img>
-  <img src="https://github.com/nicknamejv/github-readme-stats" alt="toplang"</img
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=nicknamejv&layout=compact" alt="toplang"</img
 </p>
-![Jon's GitHub stats](https://github-readme-stats.vercel.app/api?username=nicknamejv&show_icons=true&theme=radical)
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=nicknamejv&layout=compact)](https://github.com/nicknamejv/github-readme-stats)
-
 
 <!--
 **nicknamejv/nicknamejv** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
