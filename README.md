@@ -1,5 +1,5 @@
 <p align="center">
-  ### General Kenobi | Star Wars Episode III - The Revenge of the Sith @ 57:12  👋
+  <h2>General Kenobi | Star Wars Episode III - The Revenge of the Sith @ 57:12  👋</h2>
   <img src="https://github-readme-stats.vercel.app/api?username=nicknamejv&show_icons=true&theme=radical" alt="stats"</img>
   <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=nicknamejv&layout=compact" alt="toplang"</img
 </p>
