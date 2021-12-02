@@ -1,7 +1,23 @@
 # Hello my name is Jon! 🤘
+- I'm a former Software Engineer graduate from General Assembly 💻
+- I love working on the frontend side but I am also well-versed in the backend as well ⌨️
+- When I'm not coding I love to play video games during my downtime 👾
+- I love to travel and my favorite things to visit are the wonderful national parks in the United States 🏕️
 
 ## May the Force be with you...
 <h2 align="center">General Kenobi | Star Wars Episode III - The Revenge of the Sith @ 57:12  👋</h2>
+
+## Let's Connect!
+<p align='center'>
+  
+  <a href="https://www.linkedin.com/in/jonvercabraldelacruz/">
+    <img src="https://img.shields.io/badge/linkedin-%230077B5.svg?&style=for-the-badge&logo=linkedin&logoColor=white" />
+  </a>&nbsp;&nbsp;
+  <a href="https://www.instagram.com/nicknamejv_/">
+    <img src="https://img.shields.io/badge/instagram-%23E4405F.svg?&style=for-the-badge&logo=instagram&logoColor=white" />        
+  </a>&nbsp;&nbsp;
+  
+</p>
 
 ## Github Stats
 <p align="center">
