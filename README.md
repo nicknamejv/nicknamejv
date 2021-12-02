@@ -1,8 +1,10 @@
 # Hello my name is Jon! 🤘
-- I'm a former Software Engineer graduate from General Assembly 💻
-- I love working on the frontend side but I am also well-versed in the backend as well ⌨️
-- When I'm not coding I love to play video games during my downtime 👾
-- I love to travel and my favorite things to visit are the wonderful national parks in the United States 🏕️
+<ul align="center">
+  <li>I'm a former Software Engineer graduate from General Assembly 💻</li>
+  <li>I love working on the frontend side but I am also well-versed in the backend as well ⌨️ </li>
+  <li>When I'm not coding I love to play video games during my downtime 👾 </li>
+  <li>I love to travel and my favorite things to visit are the wonderful national parks in the United States 🏕️ </li>
+</ul>
 
 ## May the Force be with you...
 <h2 align="center">General Kenobi | Star Wars Episode III - The Revenge of the Sith @ 57:12  👋</h2>
