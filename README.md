@@ -1,5 +1,5 @@
 # Hello my name is Jon! 🤘
-<ul align="center">
+<ul align="center" style="list-style-type: none">
   <li>I'm a former Software Engineer graduate from General Assembly 💻</li>
   <li>I love working on the frontend side but I am also well-versed in the backend as well ⌨️ </li>
   <li>When I'm not coding I love to play video games during my downtime 👾 </li>
