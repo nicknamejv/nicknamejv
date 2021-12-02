@@ -1,27 +1,25 @@
-# Hello my name is Jon! 🤘
-<ul align="center" style="list-style-type: none">
-  <li>I'm a former Software Engineer graduate from General Assembly 💻</li>
-  <li>I love working on the frontend side but I am also well-versed in the backend as well ⌨️ </li>
-  <li>When I'm not coding I love to play video games during my downtime 👾 </li>
-  <li>I love to travel and my favorite things to visit are the wonderful national parks in the United States 🏕️ </li>
-</ul>
-
-## May the Force be with you...
-<h2 align="center">General Kenobi | Star Wars Episode III - The Revenge of the Sith @ 57:12  👋</h2>
-
-## Let's Connect!
+<h1 align="center">Hello my name is Jon! 🤘</h1>
+<div align="center">
+  <p>I'm a former Software Engineer graduate from General Assembly 💻</li>
+  <p>I love working on the frontend side but I am also well-versed in the backend as well ⌨️ </li>
+  <p>When I'm not coding I love to play video games during my downtime 👾 </li>
+  <p>I love to travel and my favorite things to visit are the wonderful national parks in the United States 🏕️ </li>
+</div>
+<br>
+<h1 align="center">May the Force be with you... 🪄</h1>
+<p align="center">General Kenobi | Star Wars Episode III - The Revenge of the Sith @ 57:12  👋</p>
+<br>
+<h1 align="center">Let's Connect!</h1>
 <p align='center'>
-  
   <a href="https://www.linkedin.com/in/jonvercabraldelacruz/">
     <img src="https://img.shields.io/badge/linkedin-%230077B5.svg?&style=for-the-badge&logo=linkedin&logoColor=white" />
   </a>&nbsp;&nbsp;
   <a href="https://www.instagram.com/nicknamejv_/">
     <img src="https://img.shields.io/badge/instagram-%23E4405F.svg?&style=for-the-badge&logo=instagram&logoColor=white" />        
   </a>&nbsp;&nbsp;
-  
 </p>
-
-## Github Stats
+<br>
+<h1 align="center">Github Stats</h1>
 <p align="center">
   <img src="https://github-readme-stats.vercel.app/api?username=nicknamejv&show_icons=true&theme=radical" alt="stats"</img>
   <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=nicknamejv&layout=compact" alt="toplang"</img
