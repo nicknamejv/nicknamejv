@@ -6,12 +6,12 @@
   <p>I love to travel and my favorite things to visit are the wonderful national parks in the United States 🏕️ </li>
 </div>
 <br>
-<h1 align="center">May the Force be with you... 🪄</h1>
+<h1 align="center">May the Force be with you... ⚔️</h1>
 <p align="center">General Kenobi | Star Wars Episode III - The Revenge of the Sith @ 57:12  👋</p>
 <br>
 <h1 align="center">Let's Connect!</h1>
 <p align='center'>
-  <a href="https://www.linkedin.com/in/jonvercabraldelacruz/">
+  <a href="https://www.linkedin.com/in/jonverdelacruz/">
     <img src="https://img.shields.io/badge/linkedin-%230077B5.svg?&style=for-the-badge&logo=linkedin&logoColor=white" />
   </a>&nbsp;&nbsp;
 </p>
